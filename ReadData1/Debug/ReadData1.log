@@ -1,7 +1,7 @@
-﻿  pch.cpp
-  ReadData1.cpp
-c:\users\赵鹏程\source\repos\readdata1\readdata1\readdata1.cpp(23): warning C4474: printf: 格式字符串中传递的参数太多
-  c:\users\赵鹏程\source\repos\readdata1\readdata1\readdata1.cpp(23): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
-c:\users\赵鹏程\source\repos\readdata1\readdata1\readdata1.cpp(74): warning C4474: printf: 格式字符串中传递的参数太多
-  c:\users\赵鹏程\source\repos\readdata1\readdata1\readdata1.cpp(74): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+﻿  ReadData1.cpp
+c:\users\赵鹏程\source\repos\readdata1\readdata1\readdata1.cpp(146): warning C4477: “printf”: 格式字符串“%ld”需要类型“long”的参数，但可变参数 1 拥有了类型“double”
+c:\users\赵鹏程\source\repos\readdata1\readdata1\readdata1.cpp(176): warning C4474: printf: 格式字符串中传递的参数太多
+  c:\users\赵鹏程\source\repos\readdata1\readdata1\readdata1.cpp(176): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+c:\users\赵鹏程\source\repos\readdata1\readdata1\readdata1.cpp(235): warning C4474: printf: 格式字符串中传递的参数太多
+  c:\users\赵鹏程\source\repos\readdata1\readdata1\readdata1.cpp(235): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
   ReadData1.vcxproj -> C:\Users\赵鹏程\source\repos\ReadData1\Debug\ReadData1.exe
